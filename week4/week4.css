@@ -1,0 +1,54 @@
+h1{
+
+    color: rgb(232, 247, 243);
+     background-color:black;
+    text-align:left;
+    font-style: italic;
+    
+    
+    }
+    h2{
+
+        color: rgb(14, 234, 175);
+         background-color:rgb(241, 14, 14);
+        text-align:left;
+        font-style: italic;
+        
+        
+        }
+        h3{
+
+            color: rgb(215, 248, 150);
+             background-color:rgb(7, 249, 120);
+            text-align:left;
+            font-style: italic;
+            
+            
+            }
+            h4{
+
+                color: rgb(232, 247, 243);
+                 background-color:black;
+                text-align:left;
+                font-style: italic;
+                
+                
+                }
+                h5{
+
+                    color: rgb(74, 207, 69);
+                     background-color:rgb(236, 13, 244);
+                    text-align:left;
+                    font-style: italic;
+                    
+                    
+                    }
+                    h6{
+
+                        color: rgb(12, 245, 183);
+                         background-color:black;
+                        text-align:left;
+                        font-style: italic;
+                        
+                        
+                        }
