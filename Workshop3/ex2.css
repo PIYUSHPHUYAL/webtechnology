@@ -1,0 +1,83 @@
+h1 {
+
+    color: rgb(227, 12, 12);
+    background-color: black;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+  
+  
+  }
+  
+  p {
+  
+      color: rgb(27, 213, 24);
+      background-color: black;
+      font-weight: bolder;
+      font-style: italic;
+      text-align: center;
+    
+    
+    }
+  
+  
+    ul{
+  
+      color: rgb(31, 102, 30);
+      background-color: rgb(18, 231, 220);
+      font-weight: bolder;
+      font-style: italic;
+      text-align: center;
+  
+  
+    }
+    li{
+  
+      color: rgb(93, 78, 226);
+      background-color: rgb(11, 234, 122);
+      font-weight: bolder;
+      font-style: italic;
+      text-align: center;
+  
+  
+    }
+  
+  
+    table{
+  
+      color: rgb(17, 18, 16);
+      background-color: rgba(106, 59, 208, 0.964);
+      font-weight: bolder;
+      font-style: italic;
+      text-align: center;
+  
+  
+    }
+    a{
+  
+      color: rgb(246, 42, 97);
+      background-color: rgb(14, 14, 14);
+      font-weight: bolder;
+      font-style: italic;
+      text-align: center;
+  
+  
+  
+    }
+
+    form{
+
+        color: rgb(246, 42, 97);
+        background-color: rgb(14, 14, 14);
+        font-weight: bolder;
+        font-style: italic;
+        text-align: center;
+
+
+    }
+    body{
+
+background-color: black;
+
+
+    }
