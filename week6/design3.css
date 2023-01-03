@@ -12,10 +12,13 @@ section{
 }
 #second{
 flex: 1;
-height: 1px;
 margin-top: 102px;
 text-align: center;
 
+}
+#rr{
+    height: 347px;
+    margin-top: -5px;
 }
 #third{
 flex: 1;
