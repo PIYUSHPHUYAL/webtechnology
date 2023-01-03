@@ -1,0 +1,41 @@
+h1{
+    color: rgb(1, 15, 15);
+font-size: 50px;
+text-align: center;
+margin-right: 10px;
+}
+body{
+    background-color: rgb(190, 252, 4)
+}
+section{
+    display:flex;
+}
+#second{
+flex: 1;
+height: 1px;
+margin-top: 102px;
+text-align: center;
+
+}
+#third{
+flex: 1;
+margin-top: 100px;
+margin-left: 95px;
+text-align: center;
+
+
+}
+#fourth{
+flex: 1;
+
+margin-top: 100px;
+margin-left: 100px;
+text-align: center;
+
+
+
+}
+#r{
+font-weight:lighter;
+text-align: center;
+}

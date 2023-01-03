@@ -1,0 +1,27 @@
+#first{
+    color: rgb(1, 15, 15);
+font-size: 50px;
+max-width: 40%;
+margin-left: 100px;
+margin-top: 50px;
+}
+#second{
+    color: rgb(1, 15, 15);
+font-size: 18px;
+max-width: 40%;
+margin-left: 50px;
+margin-top: 90px;
+}
+body{
+
+background-color: rgb(102, 161, 162);
+
+}
+section{
+    display:flex;
+}
+img{
+    width: 1200px;
+    margin-left: 150px;
+    margin-top: -15px;
+}

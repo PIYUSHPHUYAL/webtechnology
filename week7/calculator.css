@@ -1,0 +1,22 @@
+h1{
+    font-weight: bolder;
+    text-align: center;
+  font-size: 50px;
+}
+.heading{
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+    border: 3px solid black;
+    border-color: grey;
+    text-align: right;
+
+
+}
